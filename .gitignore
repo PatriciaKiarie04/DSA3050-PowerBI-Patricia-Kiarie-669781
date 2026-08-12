@@ -1,0 +1,36 @@
+﻿# Ignore large dataset files
+*.csv
+*.xlsx
+*.xls
+*.sqlite
+*.db
+
+# Ignore Power BI files
+*.pbix
+*.pbit
+*.pbip
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Ignore environment files
+__pycache__/
+*.pyc
+venv/
+env/
+.RData
+.Rhistory
+
+# Ignore large files
+*.ova
+*.msi
+*.exe
+*.zip
+*.rar
+
+# Ignore Word/Office temporary files
+~$*.docx
+~$*.xlsx
