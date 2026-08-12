@@ -27,7 +27,7 @@
 | **Source** | Kaggle |
 | **Dataset Name** | US Accidents (2016-2023) |
 | **URL** | https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents |
-| **Date Retrieved** | [Date of download] |
+| **Date Retrieved** |12/08/26 |
 | **File Format** | CSV |
 | **File Size** | ~3.2 GB |
 
