@@ -14,7 +14,6 @@
 3. [SECTION C: Data Modelling](#section-c-data-modelling)
 4. [SECTION D: DAX & Business Calculations](#section-d-dax--business-calculations)
 5. [SECTION E: Power BI Dashboards](#section-e-power-bi-dashboards)
-6. [SECTION F: GitHub & Documentation](#section-f-github--documentation)
 
 ---
 
@@ -332,7 +331,3 @@ Three professional dashboard pages were designed to tell a story from overview t
 | **Interactivity** | Slicers, cross-filtering, dynamic titles |
 
 ---
-
-## SECTION F: GITHUB & DOCUMENTATION
-
-### Repository Structure
